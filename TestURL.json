@@ -1,14 +1,8 @@
-[
-  {
-    "Name": "defenderA",
-    "ResourceId": "/subscriptions/0302d34d-f859-4d08-95c6-6c473a2298e6/resourcegroups/rg-rpa-dev/providers/Microsoft.Security/pricings/Containers",
-    "ResourceName": "Containers",
-    "ResourceType": "Microsoft.Security/pricings",
-    "ResourceGroupName": "rg-rpa-dev",
-    "Location": "usgovvirginia",
-    "SubscriptionId": "0302d34d-f859-4d08-95c6-6c473a2298e6",
-    "Tags": null,
-    "Properties": {
-      "pricingTier": "Standard"
-    }
-  },
+{
+  "TestURLs": 
+  [
+    "https://apps.powerapps.com/play/{appId}?tenantId={tenantId}&__PATestCaseId={testCaseId}",
+    "https://apps.powerapps.com/play/{appId}?tenantId={tenantId}&__PATestCaseId={testCaseId}",
+    "https://apps.powerapps.com/play/{appId}?tenantId={tenantId}&__PATestCaseId={testCaseId}"
+  ]
+}
